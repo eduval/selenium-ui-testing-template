@@ -54,22 +54,22 @@ npm install
 2. Install Dependencies
 ```bash
 npm install
-
+```
 
 3. Run a Local Web Server (Optional)
 You can serve the frontend file with a simple server:
 ```bash
 npm install -g serve
 serve app
+```
 
 4. Run Selenium Tests
 Run any test file individually with:
 ```bash
 node tests/test1_basic_registration.js
 Or for the second test:
-
-```bash
 node tests/test2_missing_firstname.js
+```
 
 ## 🧪 Tests Included
 
