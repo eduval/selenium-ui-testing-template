@@ -22,15 +22,15 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
 
 ## 📂 Project Structure
 
-selenium-automation-template/
-├── tests/
-│   ├── test1_basic_registration.js
-│   └── test2_missing_firstname.js
-├── app/
-│   └── index.html
-├── README.md
-├── package.json
-└── .gitignore
+- **selenium-automation-template/**
+  - **tests/**
+    - `test1_basic_registration.js`
+    - `test2_missing_firstname.js`
+  - **app/**
+    - `index.html`
+  - `README.md`
+  - `package.json`
+  - `.gitignore`
 
 ---
 
