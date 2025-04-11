@@ -44,15 +44,17 @@ selenium-automation-template/
 
 ### 🔧 Setup
 
-1. Clone the repository:
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/selenium-ui-testing-template.git
 cd selenium-ui-testing-template
 npm install
+```
 
 2. Install Dependencies
 ```bash
 npm install
+
 
 3. Run a Local Web Server (Optional)
 You can serve the frontend file with a simple server:
