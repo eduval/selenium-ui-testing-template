@@ -9,6 +9,12 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
 
 ## 📘 Topics Covered
 
+This section is explained in more detail in the following document:
+
+[📄 Introduction to Automation Testing with Selenium (PDF)](https://github.com/eduval/selenium-ui-testing-template/blob/main/Introduction%20to%20Automation%20Testing%20with%20Selenium.pdf)
+
+---
+
 - What is Automation Testing?
 - Importance of Automated Tests in DevOps
 - Types of Software Testing
@@ -23,8 +29,6 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
 ## 📂 Project Structure
 
 - **selenium-automation-template/**
-  - `Introduction to Automation Testing with Selenium.pdf`
-  - `index.html`
   - **tests/**
     - `test1_basic_registration.js`
     - `test2_missing_firstname.js`
@@ -32,6 +36,8 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
     - `style.css`
   - **js/**
     - `main.js`
+  - `Introduction to Automation Testing with Selenium.pdf`
+  - `index.html`
   - `README.md`
   - `package.json`
   - `package-lock.json`
@@ -51,7 +57,7 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/selenium-ui-testing-template.git
+git clone https://github.com/eduval/selenium-ui-testing-template
 cd selenium-ui-testing-template
 npm install
 ```
