@@ -23,13 +23,18 @@ Automation testing plays a key role in DevOps pipelines to ensure the reliabilit
 ## 📂 Project Structure
 
 - **selenium-automation-template/**
+  - `Introduction to Automation Testing with Selenium.pdf`
+  - `index.html`
   - **tests/**
     - `test1_basic_registration.js`
     - `test2_missing_firstname.js`
-  - **app/**
-    - `index.html`
+  - **css/**
+    - `style.css`
+  - **js/**
+    - `main.js`
   - `README.md`
   - `package.json`
+  - `package-lock.json`
   - `.gitignore`
 
 ---
