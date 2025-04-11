@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Team Registration</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Register a Team</h1>
+        <form id="teamForm">
+            <label for="firstname">First Name:</label>
+            <input type="text" id="firstname" required />
+
+            <label for="lastname">Last Name:</label>
+            <input type="text" id="lastname" required />
+
+            <label for="GroupSize">Group Size:</label>
+            <input type="number" id="GroupSize" required min="1" />
+
+            <button type="button" id="addMemberBtn">Add Member</button>
+        </form>
+
+        <div class="members-list">
+            <h2>Team Members</h2>
+            <select id="members" size="5"></select>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
