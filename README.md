@@ -67,7 +67,10 @@ serve app
 Run any test file individually with:
 ```bash
 node tests/test1_basic_registration.js
+```
+
 Or for the second test:
+```bash
 node tests/test2_missing_firstname.js
 ```
 
@@ -101,7 +104,7 @@ Feel free to:
 
 ## 📚 Learning Outcomes
 
-This project is used in SQAE114 - DevOps Infrastructure Level 2 and helps learners:
+This project is used in DevOps Infrastructure course and helps learners:
 
 - Understand the role of UI testing in DevOps
 - Implement Selenium-based test automation
@@ -114,22 +117,22 @@ This project is used in SQAE114 - DevOps Infrastructure Level 2 and helps learne
 
 This project is open-source and licensed under the [MIT License](LICENSE).
 
----
+***
 
 ## ✨ Instructor Notes
 
 This repository serves both as:
 1. A learning tool
-2. A template for students to expand on:
+2. A template for students to expand on
 
-Potential expansions:
+### Potential expansions:
 - Integrate into CI/CD pipelines (Jenkins/GitHub Actions)
 - Add more test scenarios (invalid emails, form resets)
 - Use assertion libraries (Chai/Mocha) for formal test outcomes
 
----
+***
 
-👨‍🏫 **Created by Uyen**  
-Instructor | Cisco ASC | DevOps & Automation Advocate  
+👨‍🏫 **Created by Washington**  
+Instructor | Cisco ASC | DevOps & Automation Specialist  
 📧 educristo@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/washington-eduardo-valencia-1ab8aa189/)
